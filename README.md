@@ -1,9 +1,3 @@
-# MIT-MLHC-2020-FinalProject
+Final Project for MIT Course 6.871 - Machine Learning in Healthcare
 
-You should have Physionet Access.
-
-ExtractSeptic.ipynb outputs a list of patients with Sepsis (SIRS >= 2, Risk of Infection) aligned by time of onset.
-
-
-
-
+Kylie Liu, Neha Hulkund, William Luo
